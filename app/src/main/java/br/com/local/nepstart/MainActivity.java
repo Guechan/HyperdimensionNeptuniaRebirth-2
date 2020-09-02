@@ -1,4 +1,4 @@
-package br.com.local.empresaapp;
+package br.com.local.nepstart;
 
 import androidx.appcompat.app.AppCompatActivity;
 

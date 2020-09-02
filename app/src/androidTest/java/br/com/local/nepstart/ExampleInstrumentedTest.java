@@ -1,4 +1,4 @@
-package br.com.local.empresaapp;
+package br.com.local.nepstart;
 
 import android.content.Context;
 
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
     public void useAppContext() {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
-        assertEquals("br.com.local.empresaapp", appContext.getPackageName());
+        assertEquals("br.com.local.br.com.local.nepstart", appContext.getPackageName());
     }
 }
