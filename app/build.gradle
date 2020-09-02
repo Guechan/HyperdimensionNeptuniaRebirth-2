@@ -5,7 +5,7 @@ android {
     buildToolsVersion "30.0.0"
 
     defaultConfig {
-        applicationId "br.com.local.empresaapp"
+        applicationId "br.com.local.neptune"
         minSdkVersion 16
         targetSdkVersion 30
         versionCode 1
